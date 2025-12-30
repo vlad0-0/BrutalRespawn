@@ -1,0 +1,10 @@
+{
+  "effect.brutal_respawn.brutally_respawned": "Brutaal Herboren",
+  "yacl3.config.brutal_respawn:config.category.general":"Brutale Respawn-configuratie",
+  "yacl3.config.brutal_respawn:config.category.general.group.settings": "Belangrijkste Instellingen",
+  "yacl3.config.brutal_respawn:config.healthOnRespawn": "Minimum Respawn Gezondheid",
+  "yacl3.config.brutal_respawn:config.minFoodLevelOnRespawn": "Minimaal Respawn-voedsel",
+  "yacl3.config.brutal_respawn:config.minSaturationOnRespawn": "Minimum Respawn Verzadiging",
+  "yacl3.config.brutal_respawn:config.deathHungerPenalty": "Hongerstraf Op Dood",
+  "yacl3.config.brutal_respawn:config.brutallyRespawnedEffectDuration": "Duur van Brutaal Herboren"
+}
