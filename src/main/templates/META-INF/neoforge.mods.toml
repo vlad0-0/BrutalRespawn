@@ -1,6 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "${loader_version_range}"
 license = "${mod_license}"
+issueTrackerURL="https://github.com/vlad0-0/BrutalRespawn/issues"
 
 [[mods]]
 modId = "${mod_id}"
@@ -8,6 +9,7 @@ version = "${mod_version}"
 displayName = "${mod_name}"
 authors = "${mod_authors}"
 description = '''${mod_description}'''
+displayURL="https://modrinth.com/mod/brutal-respawn"
 
 [[dependencies."${mod_id}"]]
 modId = "neoforge"
@@ -27,6 +29,6 @@ side = "BOTH"
 modId = "yet_another_config_lib_v3"
 type = "required"
 reason="library"
-versionRange = "[3.6.0,)"
+versionRange = "[3.6.0, 4)"
 ordering = "AFTER"
 side = "BOTH"
