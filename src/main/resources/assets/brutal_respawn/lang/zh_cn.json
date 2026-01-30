@@ -1,0 +1,10 @@
+{
+  "effect.brutal_respawn.brutally_respawned": "残酷重生",
+  "yacl3.config.brutal_respawn:config.category.general": "残酷重生配置",
+  "yacl3.config.brutal_respawn:config.category.general.group.settings": "主要设置",
+  "yacl3.config.brutal_respawn:config.healthOnRespawn": "重生生命值",
+  "yacl3.config.brutal_respawn:config.minFoodLevelOnRespawn": "最低重生饱食度",
+  "yacl3.config.brutal_respawn:config.minSaturationOnRespawn": "最低重生饱和度",
+  "yacl3.config.brutal_respawn:config.deathHungerPenalty": "死亡饥饿惩罚",
+  "yacl3.config.brutal_respawn:config.brutallyRespawnedEffectDuration": "残酷重生效果持续时间"
+}

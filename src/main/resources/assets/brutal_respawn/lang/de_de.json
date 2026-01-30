@@ -1,0 +1,10 @@
+{
+  "effect.brutal_respawn.brutally_respawned": "Brutal Wiederauferstanden",
+  "yacl3.config.brutal_respawn:config.category.general":"Brutale Respawn-Konfiguration",
+  "yacl3.config.brutal_respawn:config.category.general.group.settings": "Wichtigste Einstellungen",
+  "yacl3.config.brutal_respawn:config.healthOnRespawn": "Respawn-Gesundheit",
+  "yacl3.config.brutal_respawn:config.minFoodLevelOnRespawn": "Minimales Respawn-Essen",
+  "yacl3.config.brutal_respawn:config.minSaturationOnRespawn": "Minimale Respawn-Sättigung",
+  "yacl3.config.brutal_respawn:config.deathHungerPenalty": "Hungerstrafe bei Todesstrafe",
+  "yacl3.config.brutal_respawn:config.brutallyRespawnedEffectDuration": "Brutal Wiederaufgenommene Dauer"
+}
